@@ -1,1 +1,1 @@
-# SparkCourse
+# Spark Projects
