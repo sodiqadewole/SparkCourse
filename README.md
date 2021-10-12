@@ -1,3 +1,3 @@
 # Spark Projects
 
-Hands on projects that I am working on using Spark. Will update as I learn more.
+Picking up on this project using pySpark. Will update as I learn more.
